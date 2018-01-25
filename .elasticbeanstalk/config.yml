@@ -2,6 +2,9 @@ branch-defaults:
   github-flow:
     environment: env-dev
     group_suffix: null
+  master:
+    environment: env-dev
+    group_suffix: null
 global:
   application_name: hello-cicd
   branch: null
